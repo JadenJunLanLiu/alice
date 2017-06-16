@@ -8,7 +8,7 @@ import java.net.Socket;
 
 public class TimeClient {
 	public static void main(String[] args) {
-		int port = 6040;
+		int port = 6060;
 		Socket socket = null;
 		BufferedReader br = null;
 		PrintWriter pw = null;
